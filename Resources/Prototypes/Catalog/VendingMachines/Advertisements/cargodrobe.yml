@@ -1,0 +1,8 @@
+- type: advertisementsPack
+  id: CargoDrobeAds
+  advertisements:
+    - advertisement-cargodrobe-1
+    - advertisement-cargodrobe-2
+    - advertisement-cargodrobe-3
+  thankyous:
+    - vending-machine-thanks

@@ -1,0 +1,191 @@
+- type: ttsVoice
+  id: Aidar
+  name: tts-voice-name-aidar
+  sex: Male
+  speaker: aidar
+
+- type: ttsVoice
+  id: Baya
+  name: tts-voice-name-baya
+  sex: Unsexed
+  speaker: baya
+
+- type: ttsVoice
+  id: Kseniya
+  name: tts-voice-name-kseniya
+  sex: Female
+  speaker: kseniya
+
+- type: ttsVoice
+  id: Xenia
+  name: tts-voice-name-xenia
+  sex: Female
+  speaker: xenia
+
+- type: ttsVoice
+  id: Eugene
+  name: tts-voice-name-eugene
+  sex: Male
+  speaker: eugene
+
+- type: ttsVoice
+  id: Zina
+  name: tts-voice-name-zina
+  sex: Female
+  speaker: zina
+
+- type: ttsVoice
+  id: Man1
+  name: tts-voice-name-man-1
+  sex: Male
+  speaker: man1
+
+- type: ttsVoice
+  id: Man2
+  name: tts-voice-name-man-2
+  sex: Male
+  speaker: man2
+
+- type: ttsVoice
+  id: Man3
+  name: tts-voice-name-man-3
+  sex: Male
+  speaker: man3
+
+- type: ttsVoice
+  id: Man4
+  name: tts-voice-name-man-4
+  sex: Male
+  speaker: man4
+
+- type: ttsVoice
+  id: Man5
+  name: tts-voice-name-man-5
+  sex: Male
+  speaker: man5
+
+- type: ttsVoice
+  id: Man6
+  name: tts-voice-name-man-6
+  sex: Male
+  speaker: man6
+
+- type: ttsVoice
+  id: Man7
+  name: tts-voice-name-man-7
+  sex: Male
+  speaker: man7
+
+- type: ttsVoice
+  id: Man8
+  name: tts-voice-name-man-8
+  sex: Male
+  speaker: man8
+
+- type: ttsVoice
+  id: Man9
+  name: tts-voice-name-man-9
+  sex: Male
+  speaker: man9
+
+- type: ttsVoice
+  id: Man10
+  name: tts-voice-name-man-10
+  sex: Male
+  speaker: man10
+
+- type: ttsVoice
+  id: Man11
+  name: tts-voice-name-man-11
+  sex: Male
+  speaker: man11
+
+- type: ttsVoice
+  id: Man12
+  name: tts-voice-name-man-12
+  sex: Male
+  speaker: man12
+
+- type: ttsVoice
+  id: Man13
+  name: tts-voice-name-man-13
+  sex: Male
+  speaker: man13
+
+- type: ttsVoice
+  id: Man14
+  name: tts-voice-name-man-14
+  sex: Male
+  speaker: man14
+
+- type: ttsVoice
+  id: Woman1
+  name: tts-voice-name-woman-1
+  sex: Female
+  speaker: woman1
+
+- type: ttsVoice
+  id: Woman2
+  name: tts-voice-name-woman-2
+  sex: Female
+  speaker: woman2
+
+- type: ttsVoice
+  id: Woman3
+  name: tts-voice-name-woman-3
+  sex: Female
+  speaker: woman3
+
+- type: ttsVoice
+  id: Woman4
+  name: tts-voice-name-woman-4
+  sex: Female
+  speaker: woman4
+
+- type: ttsVoice
+  id: Woman5
+  name: tts-voice-name-woman-5
+  sex: Female
+  speaker: woman5
+
+- type: ttsVoice
+  id: Woman6
+  name: tts-voice-name-woman-6
+  sex: Female
+  speaker: woman6
+
+- type: ttsVoice
+  id: Woman7
+  name: tts-voice-name-woman-7
+  sex: Female
+  speaker: woman7
+
+- type: ttsVoice
+  id: Woman8
+  name: tts-voice-name-woman-8
+  sex: Female
+  speaker: woman8
+
+- type: ttsVoice
+  id: Woman9
+  name: tts-voice-name-woman-9
+  sex: Female
+  speaker: woman9
+
+- type: ttsVoice
+  id: Woman10
+  name: tts-voice-name-woman-10
+  sex: Female
+  speaker: woman10
+
+- type: ttsVoice
+  id: Woman11
+  name: tts-voice-name-woman-11
+  sex: Female
+  speaker: woman11
+
+- type: ttsVoice
+  id: Woman12
+  name: tts-voice-name-woman-12
+  sex: Female
+  speaker: woman12

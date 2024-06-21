@@ -1,0 +1,13 @@
+- type: entity
+  parent: IDCardStandard
+  id: StarDustOfficerIDCard
+  name: star dust officer id card
+  components:
+  - type: Sprite
+    layers:
+    - state: silver
+    - state: idstardustofficer
+  - type: Item
+    heldPrefix: silver
+  - type: PresetIdCard
+    job: StarDustOfficer

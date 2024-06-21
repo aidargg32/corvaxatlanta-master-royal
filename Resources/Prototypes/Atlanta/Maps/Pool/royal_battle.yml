@@ -1,0 +1,5 @@
+- type: gameMapPool
+  id: RoyalBattleMapPool
+  maps:
+  - RbMain
+  - RbKreiser

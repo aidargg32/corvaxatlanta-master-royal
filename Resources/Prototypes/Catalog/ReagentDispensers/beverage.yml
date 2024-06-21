@@ -1,0 +1,37 @@
+- type: reagentDispenserInventory
+  id: SodaDispenserInventory
+  inventory:
+  - DrinkCoffeeJug
+  - DrinkColaBottleFull
+  - DrinkCreamCartonXL
+  - DrinkDrGibbJug
+  - DrinkEnergyDrinkJug
+  - DrinkGreenTeaJug
+  - DrinkIceJug
+  - DrinkJuiceLimeCartonXL
+  - DrinkJuiceOrangeCartonXL
+  - DrinkLemonLimeJug
+  - DrinkRootBeerJug
+  - DrinkSodaWaterBottleFull
+  - DrinkSpaceMountainWindBottleFull
+  - DrinkSpaceUpBottleFull
+  - DrinkSugarJug
+  - DrinkTeaJug
+  - DrinkTonicWaterBottleFull
+  - DrinkWaterMelonJuiceJug
+
+- type: reagentDispenserInventory
+  id: BoozeDispenserInventory
+  inventory:
+  - DrinkAleBottleFullGrowler
+  - DrinkBeerGrowler
+  - DrinkCoffeeLiqueurBottleFull
+  - DrinkCognacBottleFull
+  - DrinkGinBottleFull
+  - DrinkMeadJug
+  - DrinkRumBottleFull
+  - DrinkTequilaBottleFull
+  - DrinkVermouthBottleFull
+  - DrinkVodkaBottleFull
+  - DrinkWhiskeyBottleFull
+  - DrinkWineBottleFull

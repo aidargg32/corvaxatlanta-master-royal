@@ -1,0 +1,96 @@
+- type: trait
+  id: Blindness
+  name: trait-blindness-name
+  description: trait-blindness-desc
+  traitGear: WhiteCane
+  whitelist:
+    components:
+      - Blindable
+  blacklist:
+    components:
+      - BSSDrone #backmen: bssdrone
+      - StationAI # backmen: AI
+  components:
+    - type: PermanentBlindness
+
+- type: trait
+  id: Narcolepsy
+  name: trait-narcolepsy-name
+  description: trait-narcolepsy-desc
+  blacklist:
+    components:
+      - BSSDrone #backmen: bssdrone
+      - StationAI # backmen: AI
+  components:
+    - type: Narcolepsy
+      timeBetweenIncidents: 300, 600
+      durationOfIncident: 10, 30
+
+- type: trait
+  id: Pacifist
+  name: trait-pacifist-name
+  description: trait-pacifist-desc
+  blacklist:
+    components:
+      - BSSDrone #backmen: bssdrone
+      - StationAI # backmen: AI
+  components:
+    - type: Pacified
+
+- type: trait
+  id: Paracusia
+  name: trait-paracusia-name
+  description: trait-paracusia-desc
+  blacklist:
+    components:
+      - BSSDrone #backmen: bssdrone
+      - StationAI # backmen: AI
+  components:
+    - type: Paracusia
+      minTimeBetweenIncidents: 0.1
+      maxTimeBetweenIncidents: 300
+      maxSoundDistance: 7
+      sounds:
+        collection: Paracusia
+
+- type: trait
+  id: Unrevivable
+  name: trait-unrevivable-name
+  description: trait-unrevivable-desc
+  components:
+    - type: Unrevivable
+
+- type: trait
+  id: Muted
+  name: trait-muted-name
+  description: trait-muted-desc
+  blacklist:
+    components:
+      - BSSDrone #backmen: bssdrone
+      - StationAI # backmen: AI
+      - BorgChassis
+  components:
+    - type: Muted
+
+- type: trait
+  id: WheelchairBound
+  name: trait-wheelchair-bound-name
+  description: trait-wheelchair-bound-desc
+  blacklist:
+    components:
+      - Felinid
+      - BSSDrone #backmen: bssdrone
+      - StationAI # backmen: AI
+  components:
+    - type: Muted
+
+- type: trait
+  id: FrontalLisp
+  name: trait-frontal-lisp-name
+  description: trait-frontal-lisp-desc
+  blacklist:
+    components:
+    - BSSDrone #backmen: bssdrone
+    - StationAI # backmen: AI
+  components:
+    - type: FrontalLisp

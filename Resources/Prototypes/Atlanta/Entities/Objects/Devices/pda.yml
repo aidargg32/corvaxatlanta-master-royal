@@ -1,0 +1,14 @@
+- type: entity
+  parent: BasePDA
+  id: StarDustOfficerPDA
+  name: star dust officer PDA
+  description: Pre-cleaned of dust.
+  components:
+  - type: Pda
+    id: StarDustOfficerIDCard
+    state: pda-stardustofficer
+  - type: PdaBorderColor
+    borderColor: "#A32D26"
+    accentHColor: "#447987"
+  - type: Icon
+    state: pda-stardustofficer

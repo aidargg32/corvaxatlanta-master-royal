@@ -1,0 +1,42 @@
+- type: job
+  id: SAI
+  name: job-name-sai
+  description: job-description-sai
+  playTimeTracker: JobSAI
+  requirements:
+  - !type:DepartmentTimeRequirement
+    department: Engineering
+    time: 72000 #20 hrs # Corvax-RoleTime
+  - !type:DepartmentTimeRequirement
+    department: Medical
+    time: 72000 #20 hrs # Corvax-RoleTime
+  - !type:DepartmentTimeRequirement
+    department: Security
+    time: 72000 #20 hrs # Corvax-RoleTime
+  - !type:OverallPlaytimeRequirement
+    time: 504000 #140 hrs # Corvax-RoleTime
+  weight: 30
+  icon: JobIconStationAI
+  supervisors: "all crew"
+  accessGroups:
+    - AllAccess
+  canBeAntag: false
+  jobEntity: AIEntry
+  startingGear: CentcomAdmiralGear # for char preview only
+  #canHaveTraits: false
+  joinNotifyCrew: true
+
+# - type: startingGear
+#   id: AIGear
+#   equipment:
+#     id: AIPDA
+#   inhand:
+#     hand 1: AIPDA
+#     hand 2: DoorRemoteAI
+# - type: startingGear
+#   id: AIGearUnremoveable
+#   equipment:
+#     id: AIPDAur
+#   inhand:
+#     hand 1: AIPDAur
+#     hand 2: DoorRemoteAIur
